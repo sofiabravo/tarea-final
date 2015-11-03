@@ -13,6 +13,8 @@
     "jquery-form-validator": "~2.2.81",
     "bxslider": "*",
     "jquery-colorbox": "~1.6.3",
-    "masonry": "~3.3.2"
+    "masonry": "~3.3.2",
+    "imagesloaded": "~3.2.0",
+    "photoswipe": "~4.1.0"
   }
 }
